@@ -221,5 +221,8 @@ https://archive.org/details/ChongDuZhongHuaRenMinGongHeGuoShi
 
 我听的太入神了，我希望您下次讲授不要给时间限制。我不是想问问题。我说我们作为所谓知识分子，我们有时候想想，我们有些地方自己是有问题的。我们的自豪、我们的自傲、或者是对非知识分子的轻蔑轻视、或者是不关心不关怀这些地方。所以当年我看毛主席写到知识分子的分析。我自己看完以后，我觉得他说的弱点、他说的缺点我都有。所以我想有时候我们自己也是要自我反省一下。
 
-参考链接：http://ww2.usc.cuhk.edu.hk/PaperCollection/Authors.aspx?aid=5&vp=0%2f%e9%ab%98%2f5
+## 参考链接
+
+- [大饥荒中的“粮食食用增量法”与代食品(高华)](http://ww2.usc.cuhk.edu.hk/PaperCollection/Details.aspx?id=4738)
+- [从《七律·有所思》看毛泽东发动文革的运思(高华)](http://ww2.usc.cuhk.edu.hk/PaperCollection/Details.aspx?id=4557)
 
