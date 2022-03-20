@@ -1,7 +1,7 @@
 # 重读中华人民共和国史讲座-高华教授-毛泽东何以发动文革
 
 
-{{< admonition type=info title="香港科技大学-人文社会科学学院-重读中华人民共和国史讲座系列" open=false >}}
+{{< admonition type=info title="香港科技大学-人文社会科学学院-重读中华人民共和国史讲座系列-链接" open=false >}}
 https://archive.org/details/ChongDuZhongHuaRenMinGongHeGuoShi
 {{< /admonition >}}
 
@@ -217,7 +217,7 @@ https://archive.org/details/ChongDuZhongHuaRenMinGongHeGuoShi
 
 所以毛主席曾经在五十年代。毛主席是有眼光的，他知道中国的建设离不开知识分子。五十年代初讲过很多“革命需要团结知识分子”，讲过很多话。毛主席也曾经批评过那些农民出生的、眼光狭隘的这些同志，说他们是代表着农民的狭隘思想。但是毛主席紧接着说：“忠诚更重要。”我们批评的一些农村来这些同志呢，没有知识、小心眼。但是他们很忠诚，他们对党很有阶级感情。几个原因，汇溪成流。导致最后在文革，终于把知识分子一锅煮，本来是有政策区别的，我里要强调一下。毛和刘是有区别的，在这个问题上有一点区别。我们刘同志也批判知识分子，但是刘同志把是否入党看成是一个标志，入了党的同志就是好同志，就是好知识分子。我们的毛同志管你入党不入党，都是要改造的知识分子。差别就在毛和刘，毛主席更接近。
 
-### [吴家伟](https://zh.wikipedia.org/wiki/%E5%90%B3%E5%AE%B6%E7%91%8B)教授的感悟
+### [吴家伟](https://zh.wikipedia.org/wiki/%E5%90%B3%E5%AE%B6%E7%91%8B)教授的感想
 
 我听的太入神了，我希望您下次讲授不要给时间限制。我不是想问问题。我说我们作为所谓知识分子，我们有时候想想，我们有些地方自己是有问题的。我们的自豪、我们的自傲、或者是对非知识分子的轻蔑轻视、或者是不关心不关怀这些地方。所以当年我看毛主席写到知识分子的分析。我自己看完以后，我觉得他说的弱点、他说的缺点我都有。所以我想有时候我们自己也是要自我反省一下。
 
@@ -225,4 +225,3 @@ https://archive.org/details/ChongDuZhongHuaRenMinGongHeGuoShi
 
 - [大饥荒中的“粮食食用增量法”与代食品(高华)](http://ww2.usc.cuhk.edu.hk/PaperCollection/Details.aspx?id=4738)
 - [从《七律·有所思》看毛泽东发动文革的运思(高华)](http://ww2.usc.cuhk.edu.hk/PaperCollection/Details.aspx?id=4557)
-
