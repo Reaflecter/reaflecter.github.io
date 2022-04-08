@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://reaflecter.github.io/en/my-first-blog/</loc><lastmod>2022-02-20T00:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://reaflecter.github.io/en/posts/</loc><lastmod>2022-02-20T00:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>https://reaflecter.github.io/en/my-first-blog/</loc><lastmod>2022-02-20T00:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://reaflecter.github.io/en/posts/</loc><lastmod>2022-02-20T00:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://reaflecter.github.io/posts/"
@@ -12,7 +12,7 @@
                     hreflang="en"
                     href="https://reaflecter.github.io/en/posts/"
                     /></url><url>
-            <loc>https://reaflecter.github.io/en/</loc><lastmod>2022-02-20T00:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>https://reaflecter.github.io/en/</loc><lastmod>2022-02-20T00:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://reaflecter.github.io/"
